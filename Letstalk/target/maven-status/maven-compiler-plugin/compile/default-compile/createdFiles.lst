@@ -1,0 +1,9 @@
+raven/manager/DatabaseConnector.class
+raven/component/PasswordStrengthStatus$1.class
+raven/component/PasswordStrengthStatus.class
+raven/main/Application.class
+raven/login/Register.class
+raven/manager/FormsManager.class
+raven/util/MethodUtil.class
+raven/login/Login.class
+raven/component/PasswordStrengthStatus$LabelStatus.class
